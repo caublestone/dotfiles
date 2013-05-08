@@ -1,0 +1,5 @@
+[user]
+	name = Matt Cauble
+	email = Matt@levelrf.com
+[credential]
+	helper = cache
